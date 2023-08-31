@@ -1,8 +1,0 @@
-{
-    "name": "bowlbird-website",
-    "version": "1.0.0",
-    "description": "A place to play 3D Tic Tac Toe",
-    "dependencies": {
-        "express": "^4.18.2"
-    }
-}
