@@ -2,6 +2,9 @@
 
 export default function Home() {
   return (
-   <h1>BowlBird Website :)</h1>
+  <main>
+    <h1>BowlBird Website :)</h1>
+    <p>with an autodeploy test</p>
+  </main>
   );
 }
