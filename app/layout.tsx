@@ -36,7 +36,7 @@ export default function RootLayout({
           </div>
           <div className="flex justify-center">
             <Link className='link text-center flex-auto' href="https://www.linkedin.com/in/carson-miller-295571253/" rel='noopener noreferrer' target='_blank' passHref>LinkedIn</Link>
-            <Link className='link text-center flex-auto' href="https://drive.google.com/file/d/1Ybb_2QpkmsaQ9wy9z4rZo6Sed88w75oW/view?usp=sharing" rel='noopener noreferrer' target='_blank' passHref>Resume</Link>
+            <Link className='link text-center flex-auto' href="https://drive.google.com/file/d/1tIbE89MDwQtX1QXLx6auJ_d6r4ln0fQ0/view?usp=sharing" rel='noopener noreferrer' target='_blank' passHref>Resume</Link>
             <Link className='link text-center flex-auto' href="https://github.com/BowlBird" rel='noopener noreferrer' target='_blank' passHref>GitHub</Link>
           </div>
         </div>

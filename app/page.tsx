@@ -31,7 +31,7 @@ export default function Home() {
         setOutput([...output])
       },
       'resume' : (commandString: string, output: string[]) => {
-        open('https://drive.google.com/file/d/1Ybb_2QpkmsaQ9wy9z4rZo6Sed88w75oW/view?usp=sharing')
+        open('https://drive.google.com/file/d/1tIbE89MDwQtX1QXLx6auJ_d6r4ln0fQ0/view?usp=sharing')
         setOutput([...output])
       }
     }
