@@ -31,7 +31,7 @@ export default function RootLayout({
               />
             <div className="grid grid-cols-1">
               <p>Welcome to BowlBirdOS v1.0.0</p>
-              <p>by Carson Miller</p>
+              <p>by Catherine Miller</p>
             </div>
           </div>
           <div className="flex justify-center">
